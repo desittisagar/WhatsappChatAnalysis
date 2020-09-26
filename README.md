@@ -9,7 +9,7 @@ Whatsapp Chat Analysis with Python
 ![Output 5](https://github.com/desittisagar/WhatsappChatAnalysis/blob/master/chat5.png)
 ![Output 6](https://github.com/desittisagar/WhatsappChatAnalysis/blob/master/chat6.png)
 
-1. Data Preparation and Cleaning
+- Data Preparation and Cleaning
    - Group wise stats
    - Member wise stats
 - Emoji Stats
